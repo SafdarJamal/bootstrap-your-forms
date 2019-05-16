@@ -2,11 +2,11 @@
 
 Fully Mobile Responsive Beautiful Forms with Bootstrap 4
 
-# Installation
+## Installation
 
 Let's make it easy! Just download this template, use it on your project.
 
-# Demo
+## Demo
 
 - [Home](https://bootstrapyourforms.surge.sh/index.html)
 - [Login](https://bootstrapyourforms.surge.sh/pages/login.html)
