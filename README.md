@@ -1,3 +1,3 @@
 # Bootstrap Your Forms
 
-Beautiful Forms with Bootstrap 4
+Fully Mobile Responsive Beautiful Forms with Bootstrap 4
