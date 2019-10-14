@@ -8,11 +8,11 @@ Let's make it easy! Just download this template, use it on your project.
 
 ## Demo
 
-- [Home](http://bootstrap-your-forms.surge.sh/)
-- [Login](http://bootstrap-your-forms.surge.sh/pages/login.html)
-- [Register](http://bootstrap-your-forms.surge.sh/pages/signup.html)
-- [Reset Password](http://bootstrap-your-forms.surge.sh/pages/reset-password.html)
-- [Email Verification](http://bootstrap-your-forms.surge.sh/pages/verify.html)
+- [Home](https://bootstrap-your-forms.surge.sh/)
+- [Login](https://bootstrap-your-forms.surge.sh/pages/login.html)
+- [Register](https://bootstrap-your-forms.surge.sh/pages/signup.html)
+- [Reset Password](https://bootstrap-your-forms.surge.sh/pages/reset-password.html)
+- [Email Verification](https://bootstrap-your-forms.surge.sh/pages/verify.html)
 
 ## License
 
