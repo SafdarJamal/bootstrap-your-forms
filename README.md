@@ -2,9 +2,19 @@
 
 Fully Mobile Responsive Beautiful Forms with Bootstrap 4
 
+<p align="center">
+  <img src="screenshot.png" alt='Forms in Action'>
+</p>
+
 ## Installation
 
 Let's make it easy! Just download this template, use it on your project.
+
+## Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
 
 ## Demo
 
